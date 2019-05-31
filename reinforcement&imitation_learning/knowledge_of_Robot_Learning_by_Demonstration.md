@@ -5,10 +5,8 @@ Robot learning by demonstration
 analytically decompose and manually program a desired behavior, work in LfD - PbD takes the view that an appropriate robot controller can 
 be derived from observations of a human's own performance thereof. The aim is for robot capabilities to be more easily extended and 
 adapted to novel situations, even by users without programming ability.  
-   
-   
-   
-   Contents:  
+      
+`Contents:  
    1 Overview  
       1.1 Principle  
       1.2 Historical Context  
@@ -23,7 +21,7 @@ adapted to novel situations, even by users without programming ability.
       4.1 Imitation Learning and Reinforcement Learning  
       4.2 LfD - PbD and Human-Robot Interaction  
       4.3 Limitations and Open Questions  
-   5 Further Reading  
+   5 Further Reading`  
   
 Overview
 ---
