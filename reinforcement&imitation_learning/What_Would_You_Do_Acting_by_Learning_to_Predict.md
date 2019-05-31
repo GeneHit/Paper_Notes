@@ -5,4 +5,4 @@ The article learn tasks directly from visual demonstrations by learning to predi
 It use the neural network named PredNet to predicte the state of human by last state and the state of robot space by last state and action.Then robot learns to minimize the two predictions to get the task.
 
 a useful information is taht it gives a classification of imitation learning  
-![not found](reinforcement&imitation_learning/data/what_will_you_do.png What Would You Do)
+![not found](reinforcement&imitation_learning/data/what_will_you_do.png "What Would You Do")
