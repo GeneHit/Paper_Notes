@@ -8,7 +8,7 @@ adapted to novel situations, even by users without programming ability.
 
 Overview
 ---
-* **Principle**
+* **Principle**  
 The main principle of robot LfD-PbD is that end-users can teach robots new tasks without programming.  
 In a traditional programming scenario, a human programmer would have to reason in advance and code a robot controller that is capable of 
 responding to any situation the robot may face, no matter how unlikely. This process may involve breaking down the task into 100s of 
@@ -17,7 +17,7 @@ process may need to be repeated, and the robot recalled or taken out of service 
 In contrast, LfD - PbD allows the end-user to 'program' the robot simply by showing it how to perform the task - no coding required. Then,
 when failures occur, the end-user needs only to provide more demonstrations, rather than calling for professional help. LfD - PbD hence 
 seeks to endow robots with the ability to learn what it means to perform a task by generalizing from observing several demonstrations.  
-* **Historical Context**
+* **Historical Context**  
 Robot Learning from Demonstration started in the 1980s. Then, and still to a large extent now, robots had to be tediously hand programmed 
 for every task they performed. LfD - PbD seeks to minimize, or even eliminate, this difficult step by letting users train their robot to 
 fit their needs. The expectation is that the methods of LfD-PbD, being user-friendly, will allow robots to be utilized to a greater extent 
@@ -34,7 +34,7 @@ What to imitate relates to the problem of determining which aspects of the demon
 observable or affectable properties of the environment may be irrelevant and safely ignored. Key to determining what is and is not 
 important is understanding the metric by which the robot's behavior is being evaluated.  
 
-* **How to Imitate and the Notion of Correspondence**
+* **How to Imitate and the Notion of Correspondence**  
 1. Perceptual equivalence:Due to differences between human and robot sensory capabilities, the same scene may appear very different to 
 each. For instance, while a human may identify humans and gestures from light, a robot may use depth measurements to observe the same 
 scene.Another point of comparison is tactile sensing. Most tactile sensors allow robots to perceive contact, but do not offer 
@@ -55,7 +55,7 @@ equivalence as dealing with the manner in which the agents perceive the world, a
 the task is available to both. Physical equivalence deals with the manner in which agents affect and interact with the world, and makes 
 sure that the task is actually performable by both.  
 
-* **Interfaces for Demonstration**
+* **Interfaces for Demonstration**  
 The interface used to provide demonstrations plays a key role in the way the information is gathered and transmitted. We distinguish 
 three major trends:  
 A) Directly recording human motions.   
