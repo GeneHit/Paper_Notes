@@ -4,7 +4,7 @@ This contains my notes for research papers that I've read. Papers are arranged a
   
 Contents:  
 
-* [Reinforcement&Imitation Learning](#reinforcement learning and imitation learning)
+* [Reinforcement&Imitation Learning](#reinforcement-learning-and-imitation-learning)
     * [2019 Papers](#2019-rlil-papers)
     * [2018 Papers](#2018-rlil-papers)
     * [2017 Papers](#2017-rlil-papers)
