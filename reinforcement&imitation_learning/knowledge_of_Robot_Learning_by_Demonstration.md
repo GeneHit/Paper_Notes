@@ -4,8 +4,24 @@ Robot learning by demonstration
 **Apprenticeship Learning**) is a paradigm for enabling robots to autonomously perform new tasks. Rather than requiring users to 
 analytically decompose and manually program a desired behavior, work in LfD - PbD takes the view that an appropriate robot controller can 
 be derived from observations of a human's own performance thereof. The aim is for robot capabilities to be more easily extended and 
-adapted to novel situations, even by users without programming ability.
-
+adapted to novel situations, even by users without programming ability.  
+   Contents:
+   1 Overview
+      1.1 Principle
+      1.2 Historical Context
+   2 Key Issues in Programming by Demonstration / Learning from Demonstration
+      2.1 What to imitate and Evaluation Metric
+      2.2 How to Imitate and the Notion of Correspondence
+      2.3 Interfaces for Demonstration
+   3 Ways to Solve LfD - PbD
+      3.1 Low level learning of individual motions
+      3.2 Learning high-level action composition
+   4 Imitation Learning combined with Other Learning Techniques
+      4.1 Imitation Learning and Reinforcement Learning
+      4.2 LfD - PbD and Human-Robot Interaction
+      4.3 Limitations and Open Questions
+   5 Further Reading  
+  
 Overview
 ---
 * **Principle**  
