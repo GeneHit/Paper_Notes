@@ -6,7 +6,8 @@ analytically decompose and manually program a desired behavior, work in LfD - Pb
 be derived from observations of a human's own performance thereof. The aim is for robot capabilities to be more easily extended and 
 adapted to novel situations, even by users without programming ability.  
    
-    
+   
+   
 Contents:  
    1 Overview  
       1.1 Principle  
