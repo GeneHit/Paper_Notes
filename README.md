@@ -9,18 +9,18 @@ Contents:
     * [2018 Papers](#2018 rl/il papers)
     * [2017 Papers](#2017 rl/il papers)
 
-Reinforcement Learning and Imitation Learning
+#Reinforcement Learning and Imitation Learning
 ===
 
-2019 RL/IL Papers
+#2019 RL/IL Papers
 ---
 
 
-2018 RL/IL Papers
+#2018 RL/IL Papers
 ---
 
 
 
-2017 RL/IL Papers
+#2017 RL/IL Papers
 ---
 [What Would You Do? Acting by Learning to Predict](reinforcement&imitation_learning/What_Would_You_Do_Acting_by_Learning_to_Predict.md) arXiv (4)
