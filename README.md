@@ -13,3 +13,7 @@ Reinforcement Learning and Imitation Learning
 ---
 
 
+
+2017 RL/IL Papers
+---
+[What Would You Do? Acting by Learning to Predict](reinforcement&imitation_learning/What_Would_You_Do_Acting_by_Learning_to_Predict.md) arXiv (4)
