@@ -30,6 +30,8 @@ a reward learning method for understanding the intent of a user demonstration th
 >1.liquid pouring  
 2.**learn a complex real-world door opening skill**
   
-  **shortcoming**:  
->it proposes to address differences in context by using pretrained visual features, but does not provide for
-any mechanism for context translation
+  **shortcoming and future work**:  
+>1.The viewpoint of the robot/demonstrator is fixed.  
+2.The ability to learn from a learn from broad diverse sets of experience ties into the goal of lifelong robotic learning.  
+3.Continuous learning using unsupervised rewards promises to substantially increase the variety and diversity of experiences, resulting in more robust and general robotic skills.  
+  
