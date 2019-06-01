@@ -1,4 +1,4 @@
-Unsupervised Perceptual Rewards for Imitation Learning
+[Unsupervised Perceptual Rewards for Imitation Learning](https://arxiv.org/abs/1612.06699)
 ===
 Understanding level(1-5): *3*  
 [Introduce](sermanet.github.io/rewards)  NotCode  
