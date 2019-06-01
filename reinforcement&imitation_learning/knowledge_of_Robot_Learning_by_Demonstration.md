@@ -135,5 +135,9 @@ Experiments in LfD-PbD have mostly focused on a single task (or set of closely r
 Further Reading
 ---
 
+References
+---
+[1] http://www.scholarpedia.org/article/Robot_learning_by_demonstration
+
 
 [Nehaniv]:http://www.scholarpedia.org/article/Robot_learning_by_demonstration#LikeMe
