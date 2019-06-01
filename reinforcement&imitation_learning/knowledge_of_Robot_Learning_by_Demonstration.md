@@ -15,13 +15,16 @@ Contents:
 >2.1 What to imitate and Evaluation Metric  
 >2.2 How to Imitate and the Notion of Correspondence  
 >2.3 Interfaces for Demonstration  
+  
 3 Ways to Solve LfD - PbD  
 >3.1 Low level learning of individual motions  
 >3.2 Learning high-level action composition  
+  
 4 Imitation Learning combined with Other Learning Techniques  
 >[4.1 Imitation Learning and Reinforcement Learning](#imitation-learning-and-reinforcement-learning)  
 >4.2 LfD - PbD and Human-Robot Interaction  
 >4.3 Limitations and Open Questions  
+  
 5 Further Reading  
   
 Overview
