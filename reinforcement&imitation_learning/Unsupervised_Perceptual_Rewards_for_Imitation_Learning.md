@@ -13,7 +13,7 @@ only a handful of demonstration sequences, and automatically identify the most d
 >2. imitation involves both observation and trial-and-error learning(RL).  
 >To:a reward learning method for understanding the intent of a user demonstration through the use of pre-trained visual features, which provide the “prior knowledge” for efficient imitation.
   
-  **Aims**  
+  **aims**  
 >to discover not only the high-level goal of a task, but also the implicit sub-goals and steps that comprise more complex behaviors.
   
    **main idea**:  
