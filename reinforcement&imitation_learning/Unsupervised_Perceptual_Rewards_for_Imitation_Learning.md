@@ -27,7 +27,7 @@ a reward learning method for understanding the intent of a user demonstration th
 >5. The reward function is used by a real robot to learn the perform the demonstrated task.  
   
   **amazing experient**
->1.liquid pouring
+>1.liquid pouring  
 2.**learn a complex real-world door opening skill**
   
   **shortcoming**:  
