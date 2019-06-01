@@ -5,7 +5,7 @@ Understanding level(1-5): *2*
     **issues**:  
 >many interesting tasks consist of multiple implicit intermediate steps that must be executed in sequence. Even when the final outcome can be measured, it does not necessarily provide feedback on these intermediate steps or sub-goals.  
   
-    **initial idea**:
+   **initial idea**:
 >first, imitation makes use of extensive prior knowledge to quickly glean the “gist” of anew task from even a small number of demonstrations;  
 second,imitation involves both observation and trial-and-error learning(RL).
   
