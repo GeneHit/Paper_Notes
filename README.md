@@ -24,3 +24,4 @@ Reinforcement Learning and Imitation Learning
 2017 RL/IL Papers
 ---
 [What Would You Do? Acting by Learning to Predict](reinforcement&imitation_learning/What_Would_You_Do_Acting_by_Learning_to_Predict.md) arXiv (4)
+[Unsupervised Perceptual Rewards for Imitation Learning](reinforcement&imitation_learning/Unsupervised_Perceptual_Rewards_for_Imitation_Learning.md) arXiv (3)
