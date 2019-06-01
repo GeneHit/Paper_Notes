@@ -7,9 +7,11 @@ Understanding level(1-5): *2*
   
    **initial idea**:
 >1. imitation makes use of extensive prior knowledge to quickly glean the “gist” of anew task from even a small number of demonstrations;  
-2. imitation involves both observation and trial-and-error learning(RL).
+>2. imitation involves both observation and trial-and-error learning(RL).  
   
-   **main idea**:leveraging the abstraction power of intermediate visual representations learned by deep models that pre-trained to quickly infer perceptual reward functions from small numbers of demonstrations. It present a method that is able to identify key intermediate steps of a task from
+   **main idea**:  
+>leveraging the abstraction power of intermediate visual representations learned by deep models that pre-trained to quickly infer perceptual reward functions from small numbers of demonstrations. It present a method that is able to identify key intermediate steps of a task from
 only a handful of demonstration sequences, and automatically identify the most discriminative features for identifying these steps.  
-    **shortcoming**:it proposes to address differences in context by using pretrained visual features, but does not provide for
+    **shortcoming**:  
+    >it proposes to address differences in context by using pretrained visual features, but does not provide for
 any mechanism for context translation
