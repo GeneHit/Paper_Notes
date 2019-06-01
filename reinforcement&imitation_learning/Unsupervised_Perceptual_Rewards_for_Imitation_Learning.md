@@ -11,14 +11,15 @@ only a handful of demonstration sequences, and automatically identify the most d
    **main idea**:
 >1. imitation makes use of extensive prior knowledge to quickly glean the “gist” of anew task from even a small number of demonstrations;  
 >2. imitation involves both observation and trial-and-error learning(RL).  
->To:a reward learning method for understanding the intent of a user demonstration through the use of pre-trained visual features, which provide the “prior knowledge” for efficient imitation.
+==>:  
+a reward learning method for understanding the intent of a user demonstration through the use of pre-trained visual features, which provide the “prior knowledge” for efficient imitation.
   
   **aims**  
 >to discover not only the high-level goal of a task, but also the implicit sub-goals and steps that comprise more complex behaviors.
   
    **method**:  
 >**method overview**  
-1. Giving a few demonstration videos of the same action.  
+>1. Giving a few demonstration videos of the same action.  
 2. Discovering intermediate steps.  
 3. Training a classifier for each step on top of the mid and high-level representations of a pre-trained deep model.  
 4. The step classifiers are then combined to produce a single reward function per step prior to learning. These intermediate rewards are combined into a single reward function.  
