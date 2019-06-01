@@ -1,7 +1,7 @@
 Unsupervised Perceptual Rewards for Imitation Learning
 ===
 Understanding level(1-5): *3*  
-[introduce](sermanet.github.io/rewards)  NotCode  
+[Introduce](sermanet.github.io/rewards)  NotCode  
 **Abstract**:   
 >leveraging the abstraction power of intermediate visual representations learned by deep models that pre-trained to quickly infer perceptual reward functions from small numbers of demonstrations. It present a method that is able to identify key intermediate steps of a task from
 only a handful of demonstration sequences, and automatically identify the most discriminative features for identifying these steps.  
