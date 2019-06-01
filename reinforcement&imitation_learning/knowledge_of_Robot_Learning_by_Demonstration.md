@@ -9,8 +9,8 @@ adapted to novel situations, even by users without programming ability.
 Contents:  
 1 Overview  
 >1.1 Principle  
->1.2 Historical Context  
-2 Key Issues in Programming by Demonstration / Learning from Demonstration  
+1.2 Historical Context  
+<2 Key Issues in Programming by Demonstration / Learning from Demonstration  
 >2.1 What to imitate and Evaluation Metric  
 >2.2 How to Imitate and the Notion of Correspondence  
 >2.3 Interfaces for Demonstration  
