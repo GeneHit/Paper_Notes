@@ -18,7 +18,7 @@ a reward learning method for understanding the intent of a user demonstration th
   **aims**  
 >to discover not only the high-level goal of a task, but also the implicit sub-goals and steps that comprise more complex behaviors.
   
-   **method**:  
+  **method**:  
 >**method overview**  
 >1. Giving a few demonstration videos of the same action.  
 >2. Discovering intermediate steps.  
@@ -26,6 +26,10 @@ a reward learning method for understanding the intent of a user demonstration th
 >4. The step classifiers are then combined to produce a single reward function per step prior to learning. These intermediate rewards are combined into a single reward function.  
 >5. The reward function is used by a real robot to learn the perform the demonstrated task.  
   
-   **shortcoming**:  
+  **amazing experient**
+>1.liquid pouring
+2.**learn a complex real-world door opening skill**
+  
+  **shortcoming**:  
 >it proposes to address differences in context by using pretrained visual features, but does not provide for
 any mechanism for context translation
