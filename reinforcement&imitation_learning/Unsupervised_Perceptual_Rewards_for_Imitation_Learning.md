@@ -14,5 +14,5 @@ Understanding level(1-5): *2*
 only a handful of demonstration sequences, and automatically identify the most discriminative features for identifying these steps.  
   
    **shortcoming**:  
-    >it proposes to address differences in context by using pretrained visual features, but does not provide for
+>it proposes to address differences in context by using pretrained visual features, but does not provide for
 any mechanism for context translation
